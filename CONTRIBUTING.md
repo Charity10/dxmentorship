@@ -23,9 +23,8 @@ Before you begin contributing, please follow these steps:
 ```bash
 git clone https://github.com/[YOUR-GITHUB-USERNAME]/dxmentorship.git
 cd dxmentorship
-git remote add upstream https://github.com/[YOUR-GITHUB-USERNAME]/dxmentorship.git
+git remote add upstream https://github.com/Dxmentorship/dxmentorship.git
 ```
-
 
 ## How to Contribute
 
